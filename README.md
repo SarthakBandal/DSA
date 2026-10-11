@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SarthakBandal/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/SarthakBandal/DSA/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/SarthakBandal/DSA/tree/master/0704-binary-search) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SarthakBandal/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/SarthakBandal/DSA/tree/master/0704-binary-search) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SarthakBandal/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
