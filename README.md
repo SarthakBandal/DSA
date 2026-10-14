@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SarthakBandal/DSA/tree/master/0050-powx-n) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SarthakBandal/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SarthakBandal/DSA/tree/master/0011-container-with-most-water) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SarthakBandal/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
 | ------- |
