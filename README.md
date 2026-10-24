@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SarthakBandal/DSA/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SarthakBandal/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SarthakBandal/DSA/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/SarthakBandal/DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SarthakBandal/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/SarthakBandal/DSA/tree/master/0896-monotonic-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SarthakBandal/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SarthakBandal/DSA/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/SarthakBandal/DSA/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
 | ------- |
